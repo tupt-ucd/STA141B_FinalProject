@@ -1,0 +1,13 @@
+name: STA141B_FinalProject
+title: STA141B_FinalProject
+username:
+account: ttruong-ucd
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2433385
+bundleId: 3249181
+url: https://ttruong-ucd.shinyapps.io/STA141B_FinalProject/
+when: 1591741041.68386
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Studio_Ghibli_logo.png
